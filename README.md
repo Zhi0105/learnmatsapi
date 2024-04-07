@@ -26,6 +26,8 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## ERD
+![learnmats ERD](https://github.com/Zhi0105/learnmatsapi/assets/88585596/5eabf5ff-4357-49d1-93b5-3181735dfb83)
 ## Installation
 
 ```bash
